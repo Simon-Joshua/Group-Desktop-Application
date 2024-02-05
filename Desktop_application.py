@@ -18,6 +18,33 @@ french_dict = {
     "computer" : "ordinateur",
     "book" : "livre",
     "door" : "porte",
+    "world": "monde",
+    "python": "python",
+    "code": "code",
+    "language": "langue",
+    "programming": "programmation",
+    "software": "logiciel",
+    "internet": "internet",
+    "data": "données",
+    "science": "science",
+    "machine": "machine",
+    "learning": "apprentissage",
+    "artificial": "artificielle",
+    "intelligence": "intelligence",
+    "developer": "développeur",
+    "keyboard": "clavier",
+    "mouse": "souris",
+    "screen": "écran",
+    "algorithm": "algorithme",
+    "database": "base de données",
+    "function": "fonction",
+    "variable": "variable",
+    "loop": "boucle",
+    "conditional": "conditionnelle",
+    "statement": "déclaration",
+    "debugging": "débogage",
+    "comment": "commentaire"
+
 }
 def search(word):
     if word in french_dict:
